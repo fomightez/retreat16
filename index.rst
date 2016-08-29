@@ -3,6 +3,8 @@ Wayne's Poster Resources for Retreat 2016
 
 FIX SINCE IT IS RST AND NOT MARKDOWN!!
 
+Links and resources for Jupyter Notebook and how to link active notebooks to Github from poster at Upstate Medical University's Biomedical Sciences Retreat 2016.
+
 Launch Demo Binder
 ------------------
 Do I link to the github repo/page with button or directly launch from these links? Probably to the repo page because then can direct to the static one and then back to launch an active
