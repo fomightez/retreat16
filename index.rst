@@ -23,7 +23,7 @@ This was a very simple notebook that has a good mix of the features as it was me
 
 The repository hosting that Jupyter Notebook can be found [here](https://github.com/fomightez/uscad16). There you will see a link to the [static notebook](https://github.com/fomightez/uscad16/blob/master/Decoding%20translation%20in%20the%20cloud%20and%20at%20NCBI.ipynb). You can also launch an active notebook from that reposiotry using the `launch binder` button there.
 
-To get the `launch binder` button to work I had to previously tell the Freeman Lab's Binder system found at [mybinder.org](http://mybinder.org/) to build a `binder` from the repository at Github. The binder then becomes available on-demand for users to spin up notebooks essentially isntantaneously.
+To get the `launch binder` button to work I had to previously tell the Freeman Lab's Binder system found at [mybinder.org](http://mybinder.org/) to build a `binder` from the repository at Github. That `binder` then becomes available for users to spin up notebooks on-demand, essentially instantaneously.
 
 
 
