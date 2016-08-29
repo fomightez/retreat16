@@ -15,14 +15,15 @@ Put a Button here to Career Day One or a better example? (The positives about th
 
 EDIT BELOW HERE IN THIS SECTION TO HAVE CORRECT LINKS
 
-Press the `launch binder` button below to launch an active notebook.
+Below you can press the `launch binder` button below to launch an active notebook. Play around with it and then come back here.
 
-code for button goes here
+[![Binder](http://mybinder.org/badge.svg)](http://mybinder.org/repo/fomightez/uscad16/notebooks/Decoding%20translation%20in%20the%20cloud%20and%20at%20NCBI.ipynb)
 
-This was a very simple notebook that has a good mix of the features as it was meant to touch casually on some molecular biology aspects while introducing the Jupyter ecosysrtem to some high school students that visited Upstate.
+This was a very simple notebook that has a good mix of the features as it was meant to touch casually on some molecular biology aspects while introducing the Jupyter Notebook system to some high school students that visited Upstate.
 
-The repository with the Jupyter Notebook can be found [here](). There you will see a link to the [static notebook](). You can also launch an active notebook from that reposiotry using the `launch binder` button there.
+The repository hosting that Jupyter Notebook can be found [here](https://github.com/fomightez/uscad16). There you will see a link to the [static notebook](https://github.com/fomightez/uscad16/blob/master/Decoding%20translation%20in%20the%20cloud%20and%20at%20NCBI.ipynb). You can also launch an active notebook from that reposiotry using the `launch binder` button there.
 
+To get the `launch binder` button to work I had to previously tell the Freeman Lab's Binder system found at [mybinder.org](http://mybinder.org/) to build a `binder` from the repository at Github. The binder then becomes available on-demand for users to spin up notebooks essentially isntantaneously.
 
 
 
