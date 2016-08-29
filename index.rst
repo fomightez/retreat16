@@ -27,7 +27,7 @@ The repository with the Jupyter Notebook can be found [here](). There you will s
 Basic Notebooks to Illustrate Use in the Lab
 --------------------------------------------
 
-These links will take you to the Github page where you'll see links to the static notebooks as well as buttons to launch the notebooks as active notebooks using the [Freeman Lab's Binder system found at mybinder.og](http://mybinder.org/):
+These links will take you to the Github page where you'll see links to the static notebooks as well as buttons to launch the notebooks as active notebooks using the Freeman Lab's Binder system found at [mybinder.org](http://mybinder.org/):
 
 - 1
 - 2
