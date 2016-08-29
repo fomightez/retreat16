@@ -1,6 +1,7 @@
 Wayne's Poster Resources for Retreat 2016
 =========================================
 
+FIX SINCE IT IS RST AND NOT MARKDOWN!!
 
 Launch Demo Binder
 ------------------
