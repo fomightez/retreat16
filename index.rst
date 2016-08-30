@@ -1,5 +1,5 @@
-Online Companion to Wayne's for Retreat 2016
-===========================================
+Online Companion to Wayne's Poster for Retreat 2016
+===================================================
 
 FIX SINCE IT IS RST AND NOT MARKDOWN!!
 
