@@ -13,4 +13,9 @@ On Your Desktop - Asterisks indicates those in this section I have used and they
 
 
 
-.. image:: http://mybinder.org/badge.svg :target: http://mybinder.org:/repo/fomightez/uscad16
+.. image:: http://mybinder.org/badge.svg 
+:target: http://mybinder.org:/repo/fomightez/uscad16
+
+
+.. image:: https://secure.travis-ci.org/carljm/django-model-utils.png?branch=master
+   :target: http://travis-ci.org/carljm/django-model-utils
