@@ -1,5 +1,10 @@
+.. image:: http://mybinder.org/badge.svg :target: http://mybinder.org:/repo/fomightez/uscad16
+
 Online Companion to Wayne's Poster for Retreat 2016
 ===================================================
+
+.. image:: http://mybinder.org/badge.svg :target: http://mybinder.org:/repo/fomightez/uscad16
+
 
 FIX SINCE IT IS RST AND NOT MARKDOWN!!
 
