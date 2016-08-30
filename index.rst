@@ -20,6 +20,9 @@ To get there, the easiest way is to press `Next` in the bottom right of each pag
 Launch Demo Binder
 ------------------
 
+Go to an example repository by clicking [HERE](https://github.com/fomightez/uscad16).
+
+Once there, click the blue text that says `Decoding translation in the cloud and at...`. This will open a rendering of the notebook, but you see all the `In [ ]` have nothing between the brackets and none of the output cells are present.
 
 Do I link to the github repo/page with button or directly launch from these links? Probably to the repo page because then can direct to the static one and then back to launch an active
 
