@@ -22,13 +22,6 @@ Launch Demo Binder
 
 Go to an example repository by clicking [HERE](https://github.com/fomightez/uscad16).
 
-Once there, click the blue text that says `Decoding translation in the cloud and at...`.  
-
-This will open a rendering of the notebook, but you see all the `In [ ]` on the left have nothing between the brackets and none of the output cells are present.
-
-This is a static rendering of the notebook.
-
-Go back to the repository main page.
 
 Click on the `launch binder` button that will look like below:
 
@@ -41,11 +34,15 @@ Give the notebook a minute to load and then press `SHIFT+ENTER` on your keyboard
  
 Those that should run will have the `In [ ]` on the left and they will become filled with numbers when complete. Several will have viewable output.
 
+Go back to the repository main page. Once there, click the blue text that says `Decoding translation in the cloud and at...`.  
+
+This will open a rendering of the notebook, but you see all the `In [ ]` on the left have nothing between the brackets and none of the output cells are present.
+
+This is a static rendering of the notebook. We cannot interact with it. If I had saved the completely run notebook, the output would be there but we still would not be able to interact with it.
+
 This was a very simple notebook that has a good mix of the features as it was meant to touch casually on some molecular biology aspects while introducing the Jupyter Notebook system to some high school students that visited Upstate.
 
-The repository hosting that Jupyter Notebook can be found [here](https://github.com/fomightez/uscad16). There you will see a link to the [static notebook](https://github.com/fomightez/uscad16/blob/master/Decoding%20translation%20in%20the%20cloud%20and%20at%20NCBI.ipynb). You can also launch an active notebook from that reposiotry using the `launch binder` button there.
-
-To get the `launch binder` button to work I had to previously tell the Freeman Lab's Binder system found at [mybinder.org](http://mybinder.org/) to build a `binder` from the repository at Github. That `binder` then becomes available for users to spin up notebooks on-demand, essentially instantaneously.
+The repository hosting that Jupyter Notebook can be found [here](https://github.com/fomightez/uscad16). To get the `launch binder` button to work I had to previously tell the Freeman Lab's Binder system found at [mybinder.org](http://mybinder.org/) to build a `binder` from that repository at Github. That `binder` then becomes available for users to spin up notebooks on-demand, essentially instantaneously.
 
 
 
