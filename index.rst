@@ -83,4 +83,6 @@ These links will take you to the Github page where you'll see links to the stati
 - 1
 - 2
 
+Contrast the transparency of the `Ammonium Sulfate Precipitation Screen Calculator` with a form-based Django site that performs same calculation[here](http://fomightez.pythonanywhere.com/ammonium_screen/).
+
 Do I link to the github repo/page with button or directly launch from these links? Probably to the repo page because then can direct to the static one and then back to launch an active
