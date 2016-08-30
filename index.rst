@@ -22,7 +22,37 @@ Launch Demo Binder
 
 Go to an example repository by clicking [HERE](https://github.com/fomightez/uscad16).
 
-Once there, click the blue text that says `Decoding translation in the cloud and at...`. This will open a rendering of the notebook, but you see all the `In [ ]` have nothing between the brackets and none of the output cells are present.
+Once there, click the blue text that says `Decoding translation in the cloud and at...`.  
+
+This will open a rendering of the notebook, but you see all the `In [ ]` on the left have nothing between the brackets and none of the output cells are present.
+
+This is a static rendering of the notebook.
+
+Go back to the repository main page.
+
+Click on the `launch binder` button that will look like below:
+
+.. image:: http://mybinder.org/badge.svg 
+   :target: http://mybinder.org:/repo/uscad16/notebooks/Decoding%20translation%20in%20the%20cloud%20and%20at%20NCBI.ipynb
+
+[![Binder](http://mybinder.org/badge.svg)](http://mybinder.org/repo/fomightez/uscad16/notebooks/Decoding%20translation%20in%20the%20cloud%20and%20at%20NCBI.ipynb)
+
+Give the notebook a minute to load and then press `SHIFT+ENTER` on your keyboard or press the play button (<button class='fa fa-play icon-play btn btn-xs btn-default'></button>) in the toolbar several times to step through and run cells.
+ 
+Those that should run will have the `In [ ]` on the left and they will become filled with numbers when complete. Several will have viewable output.
+
+This was a very simple notebook that has a good mix of the features as it was meant to touch casually on some molecular biology aspects while introducing the Jupyter Notebook system to some high school students that visited Upstate.
+
+The repository hosting that Jupyter Notebook can be found [here](https://github.com/fomightez/uscad16). There you will see a link to the [static notebook](https://github.com/fomightez/uscad16/blob/master/Decoding%20translation%20in%20the%20cloud%20and%20at%20NCBI.ipynb). You can also launch an active notebook from that reposiotry using the `launch binder` button there.
+
+To get the `launch binder` button to work I had to previously tell the Freeman Lab's Binder system found at [mybinder.org](http://mybinder.org/) to build a `binder` from the repository at Github. That `binder` then becomes available for users to spin up notebooks on-demand, essentially instantaneously.
+
+
+
+
+
+
+
 
 Do I link to the github repo/page with button or directly launch from these links? Probably to the repo page because then can direct to the static one and then back to launch an active
 
