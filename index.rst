@@ -10,7 +10,7 @@ Notable Notebooks
 
 See the final page of this online documentation for the list of example Jupyter Notebooks mentioned on the poster. See that page as well as for  the list of those notebooks using the Github/Binder approach.
 
-To get there, the easiest way is to press `Next` at the bottom of this page and the next.
+To get there, the easiest way is to press `Next` in the bottom right of each page until there isn't a `Next` button.
 
 Launch Demo Binder
 ------------------
