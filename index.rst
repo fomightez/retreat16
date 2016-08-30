@@ -7,6 +7,9 @@ Links and resources for Jupyter Notebook and how to link active notebooks to Git
 
 Notable Notebooks
 -----------------
+MAYBE JUST PUT THEM HERE (worried page too busy then and distract from demos?)
+
+-OR USE THIS TEXT BELOW???!?!?- 
 
 See the final page of this online documentation for the list of example Jupyter Notebooks mentioned on the poster. See that page as well as for  the list of those notebooks using the Github/Binder approach.
 
