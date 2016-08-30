@@ -5,6 +5,13 @@ FIX SINCE IT IS RST AND NOT MARKDOWN!!
 
 Links and resources for Jupyter Notebook and how to link active notebooks to Github from poster at Upstate Medical University's Biomedical Sciences Retreat 2016. ** Poster entitled: Biomedical Science on Jupyter: Comprehensible and Reproducible Scientific Workflows with Shared, Active Jupyter Notebooks **
 
+Notable Notebooks
+-----------------
+
+See the final page of this online documentation for the list of example Jupyter Notebooks mentioned on poster. As well as for finding the list of those using the Github/Binder approach.
+
+To get there, the easiest way is to press `Next` at the bottom of this page and the next.
+
 Launch Demo Binder
 ------------------
 Do I link to the github repo/page with button or directly launch from these links? Probably to the repo page because then can direct to the static one and then back to launch an active
