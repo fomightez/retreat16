@@ -22,8 +22,6 @@ Click on the ``launch binder`` button that will look like below:
 .. figure:: http://mybinder.org/badge.svg
    :alt: Binder
 
-   Binder
-
 Once launched, give the notebook a minute to load and then press
 ``SHIFT+ENTER`` on your keyboard or press the play button in the toolbar
 several times to step through and run cells.
