@@ -70,7 +70,7 @@ Point my binder at your Github Repository
 \*\* It will then look something like this as it starts building the
 launchable Binder version of your repository.\*\*
 
-.. figure:: https://github.com/fomightez/retreat16/blob/master/images/binder%20being%20built.png
+.. figure:: https://raw.githubusercontent.com/fomightez/retreat16/master/images/binder%20being%20built.png
    :alt: building
 
    building
@@ -78,7 +78,7 @@ launchable Binder version of your repository.\*\*
 -  Let it process. Only when all three dots on the left side turn green
    is it built, like below.
 
-.. figure:: https://github.com/fomightez/retreat16/blob/master/images/binder%20built.png
+.. figure:: https://raw.githubusercontent.com/fomightez/retreat16/master/images/binder%20built.png
    :alt: when done building
 
    when done building
@@ -86,7 +86,7 @@ launchable Binder version of your repository.\*\*
 -  Grab the code for your launch button badge. They have markdown and
    restructured text versions available right there.
 
-.. figure:: images/grab%20badge%20code%20area%20from%20mybinder.org%20build.png
+.. figure:: https://raw.githubusercontent.com/fomightez/retreat16/master/images/grab%20badge%20code%20area%20from%20mybinder.org%20build.png
    :alt: badge code area
 
    badge code area
