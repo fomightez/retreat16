@@ -28,7 +28,7 @@
 
 ## Point my binder at your Github Repository
 
-- Go to mybinder.org. and paste the address if your Github repository in the form next to the `submit` button.
+- Go to the [mybinder.org site](mybinder.org).
 
 <center><img src="images/mybinder.org%20page%20for%20making%20image.png" width="550" height="550"/></center>
 
