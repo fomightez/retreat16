@@ -99,6 +99,7 @@ of each page twice.
 
 .. toctree::
    :maxdepth: 2
+   :hidden:
 
    essential resources
    references by section
