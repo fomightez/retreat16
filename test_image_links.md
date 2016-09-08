@@ -30,7 +30,20 @@
 
 - Go to the [mybinder.org site](mybinder.org).
 
-<center><a href="example.com"><img src="images/mybinder.org%20page%20for%20making%20image.png" width="550" height="550"/></a></center>
+<div id="container">
+    <img src="images/mybinder.org%20page%20for%20making%20image.png" width="550" height="550"/>
+</div>
+
+#container {
+
+}
+
+#container img {
+    vertical-align:middle;
+    max-height:100%;
+}
+
+<center><a href="mybinder.org"><img src="images/mybinder.org%20page%20for%20making%20image.png" width="550" height="550"/></a></center>
 
 - Paste the address if your Github repository in the space next to the `submit` button.
 
