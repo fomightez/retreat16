@@ -112,8 +112,7 @@ See that page as well as for the list of those notebooks using the
 Github/Binder approach.
 
 To get there, the easiest way is to press ``Next`` in the bottom right
-of each page until there isn't a ``Next`` button or click
-`here <#a-sampling-of-scientific-notebooks-extensions>`__.
+of each page twice.
 
 .. toctree::
    :hidden:
