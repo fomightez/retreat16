@@ -22,11 +22,9 @@ Click on the ``launch binder`` button that will look like below:
 .. figure:: http://mybinder.org/badge.svg
    :alt: Binder
 
-   Binder
 
-Once launched, give the notebook a minute to load and then press
-``SHIFT+ENTER`` on your keyboard or press the play button in the toolbar
-several times to step through and run cells.
+Give the notebook a minute to load and then press ``SHIFT+ENTER`` on
+your keyboard or press the play buttonin the toolbar several times to step through and run cells.
 
 Those that should run will have the ``In [ ]`` on the left and they will
 become filled with numbers when complete. Several will have viewable
@@ -105,4 +103,3 @@ of each page twice.
    essential resources
    references by section
    making binder
-.. |Binder| image:: http://mybinder.org/badge.svg
