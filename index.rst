@@ -97,6 +97,11 @@ Github/Binder approach.
 To get there, the easiest way is to press ``Next`` in the bottom right
 of each page twice.
 
-.. toctree:: :maxdepth: 2
+.. toctree::
+   :maxdepth: 2
+
+   essential resources
+   references by section
+   making binder
 
 .. |Binder| image:: http://mybinder.org/badge.svg
