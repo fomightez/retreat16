@@ -113,11 +113,8 @@ approach.
 To get there, the easiest way is to press ``Next`` in the bottom right
 of each page until there isn't a ``Next`` button.
 
-
-
-Table of Contents
-
 .. toctree::
+   :hidden:
    :maxdepth: 2
 
    essential resources
