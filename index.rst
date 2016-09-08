@@ -20,7 +20,7 @@ Introduction to coding in Python.
 
    getting_started
    why python
-   where
+   making binder
    python today
    real world 1
    real world 2
