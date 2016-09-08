@@ -38,7 +38,7 @@
 
 ![where to submit](images/mybinder.org%20page%20submit%20slot%20highlight.png)
 
-<center><img src="images/mybinder.org%20page%20submit%20slot%20highlight.png" width="550" height="550"/></center>
+<center><img src="images/mybinder.org%20page%20submit%20slot%20highlight.png" width="368" height="93"/></center>
 
 - Press `Submit` to start the build process.
 
