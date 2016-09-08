@@ -113,7 +113,16 @@ approach.
 To get there, the easiest way is to press ``Next`` in the bottom right
 of each page until there isn't a ``Next`` button.
 
-.. toctree:: :maxdepth: 2
+
+
+Table of Contents
+
+.. toctree::
+   :maxdepth: 2
+
+   essential resources
+   references by poster sections
+   making binder
 
 essential resources references by poster sections making binder
 
@@ -123,10 +132,3 @@ essential resources references by poster sections making binder
 
 
 
-
-.. toctree::
-   :maxdepth: 2
-
-   essential resources
-   references by poster sections
-   making binder
