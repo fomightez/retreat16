@@ -105,22 +105,17 @@ active notebook:
 Notable Notebooks
 -----------------
 
-See the penultimate page of this online documentation for the list of
-example scientific Jupyter Notebooks mentioned on the poster. That
-section is entitled ``A sampling of scientific notebooks & extensions``.
-See that page as well as for the list of those notebooks using the
-Github/Binder approach.
+See the final page of this online documentation for the list of example
+scientific Jupyter Notebooks mentioned on the poster. See that page as
+well as for the list of those notebooks using the Github/Binder
+approach.
 
 To get there, the easiest way is to press ``Next`` in the bottom right
-of each page twice.
+of each page until there isn't a ``Next`` button.
 
-.. toctree::
-   :hidden:
-   :maxdepth: 2
+.. toctree:: :maxdepth: 2
 
-   essential resources
-   references by poster sections
-   making binder
+essential resources references by poster sections making binder
 
 .. |Binder| image:: http://mybinder.org/badge.svg
    :target: http://mybinder.org/repo/fomightez/uscad16/notebooks/Decoding%20translation%20in%20the%20cloud%20and%20at%20NCBI.ipynb
