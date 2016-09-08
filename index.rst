@@ -117,8 +117,8 @@ of each page twice.
 .. toctree::
    :maxdepth: 2
 
-   getting_started
-   why python
+   essential resources
+   references by poster sections
    making binder
 .. |Binder| image:: http://mybinder.org/badge.svg
    :target: http://mybinder.org/repo/fomightez/uscad16/notebooks/Decoding%20translation%20in%20the%20cloud%20and%20at%20NCBI.ipynb
