@@ -28,11 +28,17 @@
 
 ## Point my binder at your Github Repository
 
-- Go to mybinder.org and paste the address if your Github repository in the form next to the `submit` button.
+- Go to mybinder.org. and paste the address if your Github repository in the form next to the `submit` button.
 
 ![where to submit](images/mybinder.org%20page%20for%20making%20image.png)
 
-<img src="images/mybinder.org%20page%20for%20making%20image.png" width="417" height="496" align="center" />
+<center><img src="images/mybinder.org%20page%20for%20making%20image.png" width="450" height="450"/></center>
+
+- Paste the address if your Github repository in the space next to the `submit` button.
+
+![where to submit](images/mybinder.org%20page%20submit%20slot%20highlight.png)
+
+<center><img src="images/mybinder.org%20page%20submit%20slot%20highlight.png" width="450" height="450"/></center>
 
 - Press `Submit` to start the build process.
 
