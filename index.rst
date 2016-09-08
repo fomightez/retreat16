@@ -22,8 +22,11 @@ Click on the ``launch binder`` button that will look like below:
 .. figure:: http://mybinder.org/badge.svg
    :alt: Binder
 
-Once launched, give the notebook a minute to load and then press ``SHIFT+ENTER`` on
-your keyboard or press the play buttonin the toolbar several times to step through and run cells.
+   Binder
+
+Once launched, give the notebook a minute to load and then press
+``SHIFT+ENTER`` on your keyboard or press the play button in the toolbar
+several times to step through and run cells.
 
 Those that should run will have the ``In [ ]`` on the left and they will
 become filled with numbers when complete. Several will have viewable
@@ -96,12 +99,8 @@ Github/Binder approach.
 To get there, the easiest way is to press ``Next`` in the bottom right
 of each page twice.
 
-.. toctree::
-   :maxdepth: 2
+.. toctree:: :maxdepth: 2
 
-   getting_started
-   why python
-   sources
-.. |Binder| image:: http://mybinder.org/badge.svg
-   :target: http://mybinder.org/repo/fomightez/uscad16/notebooks/Decoding%20translation%20in%20the%20cloud%20and%20at%20NCBI.ipynb
+essential resources references by section making binder
+
 .. |Binder| image:: http://mybinder.org/badge.svg
