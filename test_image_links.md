@@ -30,29 +30,15 @@
 
 - Go to the [mybinder.org site](mybinder.org).
 
-<div id="container">
-    <img src="images/mybinder.org%20page%20for%20making%20image.png" width="550" height="550"/>
-</div>
-
-#container {
-
-}
-
-#container img {
-    vertical-align:middle;
-    max-height:100%;
-}
-
 <center><a href="mybinder.org"><img src="images/mybinder.org%20page%20for%20making%20image.png" width="550" height="550"/></a></center>
 
 - Paste the address if your Github repository in the space next to the `submit` button.
-
 
 <center><img src="images/mybinder.org%20page%20submit%20slot%20highlight.png" width="368" height="93"/></center>
 
 - Press `Submit` to start the build process.
 
-It will then look something like this if it starts working.
+** It will then look something like this as it starts building the launchable Binder version of your repository.**
 
 ![building](images/binder%20being%20built.png)
 
@@ -73,7 +59,7 @@ http://mybinder.org/repo/fomightez/repo_name
 
 http://mybinder.org/repo/fomightez/repo_name/notebooks/specific_notebook.ipynb
 
-You can easily get the code for the badge button off the build page or edit someone else's links to point at yours. For example, you can use my text [here](https://github.com/fomightez/uscad16) to make badge buttons and/or links.
+You can easily get the code for the badge button off the build page or edit someone else's links to point at yours. For example, you can use my text [here](https://github.com/fomightez/uscad16) to make badge buttons and/or links to your launchable notebooks.
 
 This is what the launch button badge looks like ---> ![Binder](http://mybinder.org/badge.svg)
 
@@ -84,6 +70,8 @@ This is what the launch button badge looks like ---> ![Binder](http://mybinder.o
 ## Use your Binder
 
 - Test by launching an active notebook using the links and/or `launch binder` button badge.
+
+> The active notebook should launch close to immediately (within several seconds) and you'll be ready to go.
 
 - Share the link with others or point them at the site of the button.
 
