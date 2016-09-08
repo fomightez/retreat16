@@ -18,12 +18,8 @@ Introduction to coding in Python.
 .. toctree::
    :maxdepth: 2
 
-   getting_started
-   why python
-   where
-   python today
-   real world 1
-   real world 2
-   sources
-   going forward
-   post-mortem
+   essential resources
+   references by section
+   making binder
+   
+
