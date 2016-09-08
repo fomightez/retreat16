@@ -117,9 +117,9 @@ of each page twice.
 .. toctree::
    :maxdepth: 2
 
-   getting_started
-   why python
-   where
+   essential resources
+   references by poster sections
+   making binder
    python today
    real world 1
    real world 2
