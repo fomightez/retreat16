@@ -53,8 +53,8 @@ handle.)
 
 This was a very simple notebook that has a good mix of the features as
 it was meant to touch casually on some molecular biology aspects while
-introducing the Jupyter Notebook system to some high school students
-that visited Upstate.
+introducing the Jupyter Notebook system to some students that visited
+Upstate.
 
 The repository hosting that Jupyter Notebook can be found
 `here <https://github.com/fomightez/uscad16>`__. To get the
