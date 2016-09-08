@@ -8,11 +8,11 @@
 
 	- a Jupyter Notebook. Only absolute requirement.
 
-	I suggest developing inside a notebook spawned from someone else's Github/Binder combination or tmpnb.org. Save often and local. Or simply copy an example notebook for testing. Notebooks end in the `.ipynb` extension.
+	> I suggest developing inside a notebook spawned from someone else's Github/Binder combination or tmpnb.org. Save often and local. Or simply copy an example notebook for testing. Notebooks end in the `.ipynb` extension.
 
 	- requirements.txt file to specify dependencies.
 
-	See step #2 at http://mybinder.org/. (Technically, not absolutely required if your needs don't extend beyond basic or mybinder.org already has the needed module installed, such as what happened when I looked into `bokeh`. They already had it. This can be confirmed by typing in Alternatively, there are other way to specify dependencies, see [the site](http://mybinder.org/).)
+	> See step #2 at http://mybinder.org/. (Technically, not absolutely required if your needs don't extend beyond basic or mybinder.org already has the needed module installed, such as what happened when I looked into `bokeh`. They already had it. This can be confirmed by typing in Alternatively, there are other way to specify dependencies, see [the site](http://mybinder.org/).)
 
 ## Readying your Github Repository
 
@@ -46,10 +46,7 @@ It will then look something like this if it starts working.
 
 ![building](images/binder%20being%20built.png)
 
-- Let it process. Only when all three dots on the left side turn green is it build.
-
-
-Below is how the green lights on the side will look when it is done building the Binder from your repository.
+- Let it process. Only when all three dots on the left side turn green is it built, like below.
 
 
 ![when done building](images/binder%20built.png)
