@@ -70,7 +70,7 @@ Point my binder at your Github Repository
 \*\* It will then look something like this as it starts building the
 launchable Binder version of your repository.\*\*
 
-.. figure:: images/binder%20being%20built.png
+.. figure:: https://github.com/fomightez/retreat16/blob/master/images/binder%20built.png
    :alt: building
 
    building
