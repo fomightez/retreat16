@@ -22,7 +22,6 @@ Click on the ``launch binder`` button that will look like below:
 .. figure:: http://mybinder.org/badge.svg
    :alt: Binder
 
-
 Give the notebook a minute to load and then press ``SHIFT+ENTER`` on
 your keyboard or press the play buttonin the toolbar several times to step through and run cells.
 
@@ -100,6 +99,9 @@ of each page twice.
 .. toctree::
    :maxdepth: 2
 
-   essential resources
-   references by section
-   making binder
+   getting_started
+   why python
+   sources
+.. |Binder| image:: http://mybinder.org/badge.svg
+   :target: http://mybinder.org/repo/fomightez/uscad16/notebooks/Decoding%20translation%20in%20the%20cloud%20and%20at%20NCBI.ipynb
+.. |Binder| image:: http://mybinder.org/badge.svg
