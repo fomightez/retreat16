@@ -49,15 +49,11 @@ Point my binder at your Github Repository
 .. figure:: https://raw.githubusercontent.com/fomightez/retreat16/master/images/mybinder.org%20page%20for%20making%20image.png
    :alt: The MyBinder site
 
-   The MyBinder site
-
 -  Paste the address if your Github repository in the space next to the
    ``submit`` button.
 
 .. figure:: https://raw.githubusercontent.com/fomightez/retreat16/master/images/mybinder.org%20page%20submit%20slot%20highlight.png
    :alt: paste next to the submit button
-
-   paste next to the submit button
 
 -  Press ``Submit`` to initiate the build process.
 
@@ -67,23 +63,17 @@ launchable Binder version of your repository.\*\*
 .. figure:: https://raw.githubusercontent.com/fomightez/retreat16/master/images/binder%20being%20built.png
    :alt: building
 
-   building
-
 -  Let it process. Only when all three dots on the left side turn green
    is it built, like below.
 
 .. figure:: https://raw.githubusercontent.com/fomightez/retreat16/master/images/binder%20built.png
    :alt: when done building
 
-   when done building
-
 -  Grab the code for your launch button badge. They have markdown and
    restructured text versions available right there.
 
 .. figure:: https://raw.githubusercontent.com/fomightez/retreat16/master/images/grab%20badge%20code%20area%20from%20mybinder.org%20build.png
    :alt: badge code area
-
-   badge code area
 
 The launch badge button is just an image linked to an html link that
 will trigger deploying of your notebook immediately on-demand via
