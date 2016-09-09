@@ -22,14 +22,14 @@ Preparation
    -  ``requirements.txt`` file to specify dependencies.
 
        See step #2 at http://mybinder.org/. (Technically, not absolutely
-       required if your needs don't extend beyond basic or mybinder.org
-       already has the needed module installed, such as what happened
-       when I looked into ``bokeh``. They already had it. This can be
-       confirmed by typing ``import`` followed by the module name
+       required if your needs don’t extend beyond basic Python or if
+       mybinder.org already has the needed module installed. For example, when
+       I looked into ``bokeh``, they already had it. The availability of
+       modules can be confirmed by typing ``import`` followed by the module name
        [or what designation is used to import that module usually] in a
        notebook spawned via MyBinder. If there is no error, than it is already
-       available and you don’t need to add it ``requirements.txt``. 
-       Alternatively, there are other way to specify dependencies, 
+       available and you don’t need to add it ``requirements.txt``.
+       Alternatively, there are other way to specify dependencies,
        see `the site <http://mybinder.org/>`__.)
 
 Readying your Github Repository
