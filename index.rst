@@ -91,15 +91,17 @@ Notable Notebooks
 See the penultimate page of this online documentation for `a list of
 example scientific Jupyter
 Notebooks <http://retreat16.readthedocs.io/en/latest/references%20by%20section/#a-sampling-of-scientific-notebooks-extensions>`__,
-entitled ``A sampling of scientific notebooks & extensions``. See that
-page as well as for `the list of example notebooks using the
-Github/Binder
-approach <http://retreat16.readthedocs.io/en/latest/references%20by%20section/#other-noteable-notebooks-using-github-binder-approach>`__.
+entitled ``A sampling of scientific notebooks & extensions``.
 
 To get there, the easiest way is to click
 `here <http://retreat16.readthedocs.io/en/latest/references%20by%20section/#a-sampling-of-scientific-notebooks-extensions>`__
 press or ``Next`` in the bottom right of each page twice to get to the
 page entitled ``References and Resources to Match Poster Sections``.
+
+See that
+page as well as for `the list of example notebooks using the
+Github/Binder
+approach <http://retreat16.readthedocs.io/en/latest/references%20by%20section/#other-noteable-notebooks-using-github-binder-approach>`__.
 
 .. toctree::
    :maxdepth: 2
