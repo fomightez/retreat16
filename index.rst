@@ -88,19 +88,20 @@ active notebook:
 Notable Notebooks
 -----------------
 
-See the penultimate page of this online documentation for the list of
-example scientific Jupyter Notebooks mentioned on the poster. That
-section is entitled ``A sampling of scientific notebooks & extensions``.
+See the penultimate page of this online documentation for `a list of
+example scientific Jupyter Notebooks, entitled
+``A sampling of scientific notebooks & extensions`` <http://retreat16.readthedocs.io/en/latest/references%20by%20section/#a-sampling-of-scientific-notebooks-extensions>`__.
 See that page as well as for the list of those notebooks using the
 Github/Binder approach.
 
-To get there, the easiest way is to press ``Next`` in the bottom right
-of each page twice.
+To get there, the easiest way is to click
+`here <http://retreat16.readthedocs.io/en/latest/references%20by%20section/#a-sampling-of-scientific-notebooks-extensions>`__
+press ``Next`` in the bottom right of each page twice.
 
 .. toctree::
    :maxdepth: 2
-   :hidden:
 
+   self
    essential resources
    references by section
    making binder
