@@ -103,6 +103,7 @@ page entitled ``References and Resources to Match Poster Sections``.
 
 .. toctree::
    :maxdepth: 2
+   :hidden:
 
    self
    essential resources
