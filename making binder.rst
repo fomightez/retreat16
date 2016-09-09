@@ -19,7 +19,7 @@ Preparation
        local. Or simply copy an example notebook for testing. Notebooks
        end in the ``.ipynb`` extension.
 
-   -  requirements.txt file to specify dependencies.
+   -  ``requirements.txt`` file to specify dependencies.
 
        See step #2 at http://mybinder.org/. (Technically, not absolutely
        required if your needs don't extend beyond basic or mybinder.org
