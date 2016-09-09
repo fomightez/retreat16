@@ -89,7 +89,7 @@ http://mybinder.org/repo/fomightez/repo\_name/notebooks/specific\_notebook.ipynb
 
 You can easily get the code for the badge button off the build page or
 edit someone else's links to point at yours. For example, you can use my
-text `here <https://github.com/fomightez/uscad16>`__ to make badge
+text `here <https://github.com/fomightez/uscad16/blob/master/README.md>`__ to make badge
 buttons and/or links to your launchable notebooks.
 
 This is what the launch button badge looks like ---> |Binder|
