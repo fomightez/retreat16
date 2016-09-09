@@ -36,7 +36,7 @@ Readying your Github Repository
 -  If needed, add the ``requirements.txt`` file to the repo to point at
    pypi modules needed. See step #2 at http://mybinder.org/
 
--  Copy to your clipboard the address of your repository. It will
+-  Copy to your clipboard the URL address of your repository. It will
    resmble
 
    https://github.com/github\_user\_name/repository\_name
@@ -46,26 +46,20 @@ Point my binder at your Github Repository
 
 -  Go to the `mybinder.org site <mybinder.org>`__.
 
-.. raw:: html
+.. figure:: https://raw.githubusercontent.com/fomightez/retreat16/master/images/mybinder.org%20page%20for%20making%20image.png
+   :alt: The MyBinder site
 
-   <center>
-
-.. raw:: html
-
-   </center>
+   The MyBinder site
 
 -  Paste the address if your Github repository in the space next to the
    ``submit`` button.
 
-.. raw:: html
+.. figure:: https://raw.githubusercontent.com/fomightez/retreat16/master/images/mybinder.org%20page%20submit%20slot%20highlight.png
+   :alt: paste next to the submit button
 
-   <center>
+   paste next to the submit button
 
-.. raw:: html
-
-   </center>
-
--  Press ``Submit`` to start the build process.
+-  Press ``Submit`` to initiate the build process.
 
 \*\* It will then look something like this as it starts building the
 launchable Binder version of your repository.\*\*
