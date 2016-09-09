@@ -172,6 +172,11 @@ A sampling of scientific notebooks & extensions
    platform from within a Jupyter Notebook
    environment <http://software.broadinstitute.org/cancer/software/genepattern/genepattern-notebook-for-jupyter-users>`__
 
+    Be sure to look at `the list of example notebooks using the
+    Github/Binder
+    approach <http://retreat16.readthedocs.io/en/latest/references%20by%20section/#other-noteable-notebooks-using-github-binder-approach>`__
+    below as well
+
 Resources for Running Active Notebooks in the Cloud
 ---------------------------------------------------
 
