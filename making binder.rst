@@ -81,11 +81,11 @@ mybinder.org. Because the link conforms to a certain convention, you can
 also build it yourself later. The link to trigger launching an active
 form of your notebook will look like:
 
-http://mybinder.org/repo/fomightez/repo\_name
+http://mybinder.org/repo/user\_name/repo\_name
 
 -or-
 
-http://mybinder.org/repo/fomightez/repo\_name/notebooks/specific\_notebook.ipynb
+http://mybinder.org/repo/user\_name/repo\_name/notebooks/specific\_notebook.ipynb
 
 You can easily get the code for the badge button off the build page or
 edit someone else's links to point at yours. For example, you can use my
