@@ -226,22 +226,22 @@ be found `here <https://github.com/fomightez/jupyter_nb_basics>`__
 
 Contrast the transparency of the
 ``Ammonium Sulfate Precipitation Screen Calculator`` with a form-based
-Django site that performs same
-calculation\ `here <http://fomightez.pythonanywhere.com/ammonium_screen/>`__.
+Django site that performs same calculation
+`here <http://fomightez.pythonanywhere.com/ammonium_screen/>`__.
 
 Other Noteable Notebooks Using Github/Binder approach
 -----------------------------------------------------
 
 -  `Molecular Design Toolkit
    Demo <https://github.com/avirshup/mdt-gallery-test>`__ - after
-   hitting the ``launch binder`` button there I suggest the early parts
-   of the ``Example 1. Build and simulate DNA.ipynb`` and
+   hitting the |Binder| button there I suggest the early parts of the
+   ``Example 1. Build and simulate DNA.ipynb`` and
    ``Example 3. Simulating a crystal structure.ipynb`` notebooks.
 
 -  `VPython - Visual Python
    demos <https://github.com/BruceSherwood/vpython-jupyter>`__ has a
-   ``launch binder`` button at the bottom. Try ``Atomic solid`` for a
-   simulation of interatomic interactions.
+   |Binder| button at the bottom. Try ``Atomic solid`` for a simulation
+   of interatomic interactions.
 
 -  `Introduction to Applied Bioinformatics (or IAB) is a free, open
    source interactive text that introduces readers to core concepts of
