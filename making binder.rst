@@ -28,7 +28,7 @@ Preparation
        modules can be confirmed by typing ``import`` followed by the module name
        [or what designation is used to import that module usually] in a
        notebook spawned via MyBinder. If there is no error, than it is already
-       available and you don’t need to add it ``requirements.txt``.
+       available and you don’t need to add it to ``requirements.txt``.
        Alternatively, there are other way to specify dependencies,
        see `the site <http://mybinder.org/>`__.)
 
