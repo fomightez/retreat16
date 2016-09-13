@@ -106,6 +106,7 @@ approach <http://retreat16.readthedocs.io/en/latest/references%20by%20section/#o
 
    self
    essential resources
+   poster
    references by section
    making binder
 
