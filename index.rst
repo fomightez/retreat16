@@ -108,7 +108,7 @@ approach <http://retreat16.readthedocs.io/en/latest/references%20by%20section/#o
    essential resources
    poster
    references by section
-   uisng tmpnb
+   using tmpnb
    making binder
 
 .. |Binder| image:: http://mybinder.org/badge.svg
