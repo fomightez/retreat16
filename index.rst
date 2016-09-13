@@ -70,8 +70,8 @@ as active notebooks using the Freeman Lab's Binder system found at
 Click the |Binder| button at any of the following repositories for an
 active notebook:
 
--  `ammonium sulfate precipitation screen
-   calculator <https://github.com/fomightez/small_scale_ammonium_sulfate_precipitation_calculator>`__
+-  `Ammonium Sulfate Precipitation Screen
+   Calculator <https://github.com/fomightez/small_scale_ammonium_sulfate_precipitation_calculator>`__
 
 -  `Cell Density
    Estimator <https://github.com/fomightez/methods_in_yeast_genetics/blob/master/cell_density_estimator/>`__
