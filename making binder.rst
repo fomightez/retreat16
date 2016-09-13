@@ -15,9 +15,10 @@ Preparation
    -  a Jupyter Notebook. Only absolute requirement.
 
        I suggest developing inside a notebook spawned from someone
-       else's Github/Binder combination or tmpnb.org. Save often and
-       local. Or simply copy an example notebook for testing. Notebooks
-       end in the ``.ipynb`` extension.
+       else's Github/Binder combination or tmpnb.org, see
+       `here <http://retreat16.readthedocs.io/en/latest/using%20tmpnb/>`__.
+       Save often and local. Or simply copy an example notebook for
+       testing. Notebooks end in the ``.ipynb`` extension.
 
    -  ``requirements.txt`` file to specify dependencies.
 
