@@ -17,16 +17,13 @@ Launch Demo Binder
 Go to an example repository by clicking
 `HERE <https://github.com/fomightez/uscad16>`__.
 
-Click on the ``launch binder`` button that will look like below:
+Once there, click on the |Binder| button to launch the demo.
 
-.. figure:: http://mybinder.org/badge.svg
-   :alt: Binder
-
-Once launched, give the notebook a minute to load and then press
+Give the notebook a minute to load and then press
 ``SHIFT+ENTER`` on your keyboard or press the play button in the toolbar
 several times to step through and run cells.
 
-Those that should run will have the ``In [ ]`` on the left and they will
+The cells that should run will have the ``In [ ]`` on the left and they will
 become filled with numbers when complete. Several will have viewable
 output.
 
