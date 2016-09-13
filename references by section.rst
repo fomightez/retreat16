@@ -31,6 +31,9 @@ Background
     the inexperience of most scientific journals when it comes to
     software..."
 
+-  `Why scientists must share their research code in Nature News
+   <http://www.nature.com/news/why-scientists-must-share-their-research-code-1.20504>`__.
+
 -  `Interactive notebooks: Sharing the code by Helen Shen. Nature. 2014
    Nov 6;515(7525):151-2. doi: 10.1038/515151a. PMID:
    25373681 <http://www.nature.com/news/interactive-notebooks-sharing-the-code-1.16261>`__.
