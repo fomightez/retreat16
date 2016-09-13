@@ -197,7 +197,7 @@ Resources for Running Active Notebooks in the Cloud
     analyze and reanalyze."
 
 -  `tmpnb.org <http://tmpnb.org>`__ or
-   `try.jupyter.org/ <https://try.jupyter.org/>`__ - launch active,
+   `try.jupyter.org <https://try.jupyter.org/>`__ - launch active,
    transient Jupyter Notebooks in the cloud for basic development, see
    `Instant Temporary IPython
    Notebooks <https://lambdaops.com/ipythonjupyter-tmpnb-debuts/>`__
