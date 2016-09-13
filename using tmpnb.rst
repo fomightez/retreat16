@@ -55,13 +55,13 @@ notebooks referenced
 Try the notebook
 ----------------
 
-Tips:
+-  Tips
 
-::
-
-    - hit shift-enter to run a cell.
-    - the pull-down menu in the toolbar lets you switch cells from `code` to `markdown` but there are also short-cuts.
-    - Fom inside the notebook you can always return to the `dashboard` by clicking the Jupyter logo in the upper left side.
+   -  hit shift-enter to run a cell.
+   -  the pull-down menu in the toolbar lets you switch cells from
+      ``code`` to ``markdown`` but there are also short-cuts.
+   -  Fom inside the notebook you can always return to the ``dashboard``
+      by clicking the Jupyter logo in the upper left side.
 
 -  **REMEMBER THE ACTIVE FORM IS EPHEMERAL.** If you did anything that
    you are happy with, be sure to save it locally by going to ``File`` >
