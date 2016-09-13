@@ -57,7 +57,7 @@ Try the notebook
 
 -  Tips
 
-   -  hit shift-enter to run a cell.
+   -  hit `shift-enter` to run a cell.
    -  the pull-down menu in the toolbar lets you switch cells from
       ``code`` to ``markdown`` but there are also short-cuts.
    -  Fom inside the notebook you can always return to the ``dashboard``
