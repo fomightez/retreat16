@@ -92,7 +92,7 @@ entitled ``A sampling of scientific notebooks & extensions``.
 
 To get there, the easiest way is to click
 `here <http://retreat16.readthedocs.io/en/latest/references%20by%20section/#a-sampling-of-scientific-notebooks-extensions>`__
-press or ``Next`` in the bottom right of each page twice to get to the
+press or ``Next`` in the bottom right of each page three times to get to the
 page entitled ``References and Resources to Match Poster Sections``.
 
 See that
