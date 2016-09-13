@@ -8,8 +8,8 @@ Appendix: Using tmpnb.org or try.jupyter.org
 Get an active notebook running
 ------------------------------
 
--  Go to `tmpnb.org <tmpnb.org>`__ or
-   `try.jupyter.org <try.jupyter.org>`__ and you'll see a ``dashboard``
+-  Go to `tmpnb.org <http://tmpnb.org>`__ or
+   `try.jupyter.org <http://try.jupyter.org>`__ and you'll see a ``dashboard``
    like below.
 
 .. figure:: https://raw.githubusercontent.com/fomightez/retreat16/master/images/tmpnb.org%20main%20page.png
