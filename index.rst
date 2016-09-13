@@ -7,9 +7,9 @@ Online Companion to Wayne's Poster for Retreat 2016
 
 Links and resources for Jupyter Notebook and how to link active
 notebooks to Github from poster at Upstate Medical University's
-Biomedical Sciences Retreat 2016. \*\* Poster entitled: Biomedical
+Biomedical Sciences Retreat 2016. **Poster entitled: Biomedical
 Science on Jupyter: Comprehensible and Reproducible Scientific Workflows
-with Shared, Active Jupyter Notebooks \*\*
+with Shared, Active Jupyter Notebooks**
 
 Launch Demo Binder
 ------------------
