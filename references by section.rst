@@ -205,6 +205,30 @@ Resources for Running Active Notebooks in the Cloud
    `Instant Temporary IPython
    Notebooks <https://lambdaops.com/ipythonjupyter-tmpnb-debuts/>`__
 
+I have made `a
+page <http://retreat16.readthedocs.io/en/latest/using%20tmpnb/>`__ to
+walk you through trying tmpnb.org or try.jupyter.org, find it
+`here <http://retreat16.readthedocs.io/en/latest/using%20tmpnb/>`__.
+
+-  Another alternative is to click
+   `here <https://app.dominodatalab.com/nick/py3-demo>`__. I have not
+   extensively run this site through it's paces, and so I can offer a
+   couple points about it and beyond that your mileage may vary. It was
+   set up by the excellent Domino Data Lab to serve as a place to run
+   `an active notebook about differences between Python 2.x and
+   3.x <https://blog.dominodatalab.com/adding-python-3-to-jupyter/>`__
+   without need for signing into the Domino Data Lab service. I know the
+   free tier for signed in users is limited to 15 minutes, and so maybe
+   the anonymous one also has this limitation as well? Also similar to
+   tmpnb.org unless it is already installed, you won't have access to
+   other modules or be able to scrape data from other sites.
+
+The Binder/Github set-up allows you to designate other modules you need
+loaded when the instance is spun-up, but that does mean some set-up
+steps as discussed in `the
+appendix <http://retreat16.readthedocs.io/en/latest/making%20binder/>`__.
+Contact me if you need help understanding how to set this up.
+
 Launching Active Versions of My Notebooks
 -----------------------------------------
 
