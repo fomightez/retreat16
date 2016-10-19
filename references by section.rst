@@ -274,7 +274,7 @@ Other Noteable Notebooks Using Github/Binder approach
    that makes it easy to visualize molecular systems, including
    trajectories, directly in the Jupyter Notebook. (Launch a Binder by
    clicking the ``Binder`` logo there.) See more about nglview
-   `here <http://www.mdanalysis.org/2016/03/14/nglview/>`__
+   `here <http://www.mdanalysis.org/2016/03/14/nglview/>`__.
 
 -  `VPython - Visual Python
    demos <https://github.com/BruceSherwood/vpython-jupyter>`__ has a
