@@ -270,6 +270,12 @@ Other Noteable Notebooks Using Github/Binder approach
    ``Example 1. Build and simulate DNA.ipynb`` and
    ``Example 3. Simulating a crystal structure.ipynb`` notebooks.
 
+-  `nglview <https://github.com/arose/nglview>`__ is a Python package
+   that makes it easy to visualize molecular systems, including
+   trajectories, directly in the Jupyter Notebook. (Launch a Binder by
+   clicking the ``Binder`` logo there.) See more about nglview
+   `here <http://www.mdanalysis.org/2016/03/14/nglview/>`__
+
 -  `VPython - Visual Python
    demos <https://github.com/BruceSherwood/vpython-jupyter>`__ has a
    |Binder| button at the bottom. Try ``Atomic solid`` for a simulation
