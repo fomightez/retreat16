@@ -44,6 +44,8 @@ Background
    Life <http://wp.sanger.ac.uk/barrettgroup/2016/03/10/how-jupyter-notebooks-will-improve-your-computational-life/>`__
    - a nice illustrated introduction to Jupyter Notebooks
 
+-  `Jupyter Notebook Tutorial: The Definitive Guide <https://www.datacamp.com/community/tutorials/tutorial-jupyter-notebook#gs.UeGobjY>`__
+
 -  `An brief introduction to Jupyter Notebook essentials that is meant
    to be hands-on, posted by Titus Brown as part of a recent one day
    seminar <https://2016-oslo-repeatability.readthedocs.io/en/latest/intro-jupyter.html>`__
