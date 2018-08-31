@@ -49,6 +49,8 @@ Annotated, Essential Resources
    . Some other notebooks are highlighted
    `here <http://nbviewer.jupyter.org/>`__.
 
+- `A curated list of awesome Jupyter projects <https://github.com/markusschanta/awesome-jupyter>`__
+
 -  `Installation, Configuration, and
    Usage <http://jupyter.readthedocs.io/en/latest/projects/content-projects.html>`__
    - start here if you need a solution not provided by tmpnb.org or the
